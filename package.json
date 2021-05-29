@@ -1,0 +1,18 @@
+{
+  "name": "generator-bts",
+  "version": "0.1.0",
+  "description": "Generates a basic typescript env",
+  "author": "PWall",
+  "license": "GPL-3.0",
+  "repository": "https://github.com/PWall2222/BasicTypescript",
+  "main": "index.js",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.2.0"
+  }
+}
