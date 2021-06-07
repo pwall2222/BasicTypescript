@@ -4,6 +4,7 @@
 		"lib": ["DOM","ESNext"],
 		"rootDir": "src/ts",
 		"baseUrl": "src/ts",
+		"sourceMap": true,
 		"incremental": true,
 		"alwaysStrict": true,
 		"module": "ESNext"
