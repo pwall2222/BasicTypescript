@@ -111,6 +111,7 @@ class appGenerator extends Generator {
 		this.addDevDependencies({
 			"browser-sync": "^2.26.14",
 			"gulp": "^4.0.2",
+			"gulp-sourcemaps": "^3.0.0",
 			"gulp-changed": "^4.0.2",
 			"gulp-replace": "^1.1.1",
 			"gulp-typescript": "*",
